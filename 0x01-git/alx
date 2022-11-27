@@ -1,0 +1,246 @@
+cd bash
+root@296f63c777eb:/alx-pre_course/0x01-git# touch bash/98
+root@296f63c777eb:/alx-pre_course/0x01-git# ls
+0x01-git  bash  c  js  README.md  school  up_to_date
+root@296f63c777eb:/alx-pre_course/
+root@296f63c777eb:/alx-pre_course/0x01-git# touch bash/98
+root@296f63c777eb:/alx-pre_course/0x01-git# ls
+0x01-git  bash  c  js  README.md  school  up_to_date
+root@296f63c777eb:/alx-pre_course/0x01-git# cat > alx #!/bin/bash
+cd bash
+root@296f63c777eb:/alx-pre_course/0x01-git# touch bash/98
+root@296f63c777eb:/alx-pre_course/0x01-git# ls
+0x01-git  bash  c  js  README.md  school  up_to_date
+root@296f63c777eb:/alx-pre_course/0x01-git# cat > alx #! alx
+alx school
+clear
+root@296f63c777eb:/alx-pre_course# touch bash/98
+root@296f63c777eb:/alx-pre_course# ls
+0x01-git  bash  c  js  README.md
+root@296f63c777eb:/alx-pre_course# school
+bash: school: command not found
+root@296f63c777eb:/alx-pre_course# git branch -a
+  main
+* update_script
+  remotes/origin/main
+  remotes/origin/master
+  remotes/origin/mster
+root@296f63c777eb:/alx-pre_course# git checkout update_script
+Already on 'update_script'
+root@296f63c777eb:/alx-pre_course# cd ..
+root@296f63c777eb:/# cd ..
+root@296f63c777eb:/# pwd
+/
+root@296f63c777eb:/# pwd
+/
+root@296f63c777eb:/# cd ..
+root@296f63c777eb:/# cd alx-pre_course
+root@296f63c777eb:/alx-pre_course# cd 0x01-git
+root@296f63c777eb:/alx-pre_course/0x01-git# touch bash/98
+root@296f63c777eb:/alx-pre_course/0x01-git# ls
+0x01-git  bash  c  js  README.md  school  up_to_date
+root@296f63c777eb:/alx-pre_course/0x01-git# cat > alx #!/bin/bash
+cd bash
+root@296f63c777eb:/alx-pre_course/0x01-git# touch bash/98
+root@296f63c777eb:/alx-pre_course/0x01-git# ls
+0x01-git  bash  c  js  README.md  school  up_to_date
+root@296f63c777eb:/alx-pre_course/0x01-git# cat > alx #!         
+root@296f63c777eb:/alx-pre_course/0x01-git# touch bash/98
+root@296f63c777eb:/alx-pre_course/0x01-git# ls
+0x01-git  bash  c  js  README.md  school  up_to_date
+root@296f63c777eb:/alx-pre_course/0x01-git# cat > alx #!/bin/bash
+cd bash
+root@296f63c777eb:/alx-pre_course/0x01-git# touch bash/98
+root@296f63c777eb:/alx-pre_course/0x01-git# ls
+0x01-git  bash  c  js  README.md  school  up_to_date
+root@296f63c777eb:/alx-pre_course/0x01-git# cat > alx #! alx
+alx school
+clear
+[A[B[B[B[B[B
+
+
+root@296f63c777eb:/alx-pre_course# touch bash/98
+root@296f63c777eb:/alx-pre_course# ls
+0x01-git  bash  c  js  README.md
+root@296f63c777eb:/alx-pre_course# school
+bash: school: command not found
+root@296f63c777eb:/alx-pre_course# git branch -a
+  main
+* update_script
+  remotes/origin/main
+  remotes/origin/master
+  remotes/origin/mster
+root@296f63c777eb:/alx-pre_course# git checkout update_script
+Already on 'update_script'
+root@296f63c777eb:/alx-pre_course# cd ..
+root@296f63c777eb:/# cd ..
+root@296f63c777eb:/# pwd
+/
+root@296f63c777eb:/# pwd
+/
+root@296f63c777eb:/# cd ..
+root@296f63c777eb:/# cd alx-pre_course
+root@296f63c777eb:/alx-pre_course# cd 0x01-git
+root@296f63c777eb:/alx-pre_course/0x01-git# touch bash/98
+root@296f63c777eb:/alx-pre_course/0x01-git# ls
+0x01-git  bash  c  js  README.md  school  up_to_date
+root@296f63c777eb:/alx-pre_course/0x01-git# cat > alx #!/bin/bash
+cd bash
+root@296f63c777eb:/alx-pre_course/0x01-git# touch bash/98
+root@296f63c777eb:/alx-pre_course/0x01-git# ls
+0x01-git  bash  c  js  README.md  school  up_to_date
+root@296f63c777eb:/alx-pre_course/0x01-git# cat > alx #!         
+root@296f63c777eb:/alx-pre_course/0x01-git# touch bash/98
+root@296f63c777eb:/alx-pre_course/0x01-git# ls
+0x01-git  bash  c  js  README.md  school  up_to_date
+root@296f63c777eb:/alx-pre_course/0x01-git# cat > alx #!/bin/bash
+cd bash
+root@296f63c777eb:/alx-pre_course/0x01-git# touch bash/98
+root@296f63c777eb:/alx-pre_course/0x01-git# ls
+0x01-git  bash  c  js  README.md  school  up_to_date
+root@296f63c777eb:/alx-pre_course/0x01-git# cat > alx #! alx
+alx school
+clear
+root@296f63c777eb:/# git branch update_script
+fatal: not a git repository (or any of the parent directories): .git
+root@296f63c777eb:/# 
+root@296f63c777eb:/# cd alx-pre_course
+root@296f63c777eb:/alx-pre_course# git branch update_script 
+fatal: A branch named 'update_script' already exists.
+root@296f63c777eb:/alx-pre_course# git checkout update_script
+Already on 'update_script'
+root@296f63c777eb:/alx-pre_course# touch bash/98
+root@296f63c777eb:/alx-pre_course# ls
+0x01-git  bash  c  js  README.md
+root@296f63c777eb:/alx-pre_course# school
+bash: school: command not found
+root@296f63c777eb:/alx-pre_course# git branch -a
+  main
+* update_script
+  remotes/origin/main
+  remotes/origin/master
+  remotes/origin/mster
+root@296f63c777eb:/alx-pre_course# git checkout update_script
+Already on 'update_script'
+root@296f63c777eb:/alx-pre_course# cd ..
+root@296f63c777eb:/# cd ..
+root@296f63c777eb:/# pwd
+/
+root@296f63c777eb:/# pwd
+/
+root@296f63c777eb:/# cd ..
+root@296f63c777eb:/# cd alx-pre_course
+root@296f63c777eb:/alx-pre_course# cd 0x01-git
+root@296f63c777eb:/alx-pre_course/0x01-git# touch bash/98
+root@296f63c777eb:/alx-pre_course/0x01-git# ls
+0x01-git  bash  c  js  README.md  school  up_to_date
+root@296f63c777eb:/alx-pre_course/0x01-git# cat > alx #!/bin/bash
+cd bash
+root@296f63c777eb:/alx-pre_course/0x01-git# touch bash/98
+root@296f63c777eb:/alx-pre_course/0x01-git# ls
+0x01-git  bash  c  js  README.md  school  up_to_date
+root@296f63c777eb:/alx-pre_course/0x01-git# cat > alx #!         
+root@296f63c777eb:/alx-pre_course/0x01-git# touch bash/98
+root@296f63c777eb:/alx-pre_course/0x01-git# ls
+0x01-git  bash  c  js  README.md  school  up_to_date
+root@296f63c777eb:/alx-pre_course/0x01-git# cat > alx #!/bin/bash
+cd bash
+root@296f63c777eb:/alx-pre_course/0x01-git# touch bash/98
+root@296f63c777eb:/alx-pre_course/0x01-git# ls
+0x01-git  bash  c  js  README.md  school  up_to_date
+root@296f63c777eb:/alx-pre_course/0x01-git# cat > alx #! alx
+alx school
+clear
+root@296f63c777eb:/alx-pre_course# touch bash/98
+root@296f63c777eb:/alx-pre_course# ls
+0x01-git  bash  c  js  README.md
+root@296f63c777eb:/alx-pre_course# school
+bash: school: command not found
+root@296f63c777eb:/alx-pre_course# git branch -a
+  main
+* update_script
+  remotes/origin/main
+  remotes/origin/master
+  remotes/origin/mster
+root@296f63c777eb:/alx-pre_course# git checkout update_script
+Already on 'update_script'
+root@296f63c777eb:/alx-pre_course# cd ..
+root@296f63c777eb:/# cd ..
+root@296f63c777eb:/# pwd
+/
+root@296f63c777eb:/# pwd
+/
+root@296f63c777eb:/# cd ..
+root@296f63c777eb:/# cd alx-pre_course
+root@296f63c777eb:/alx-pre_course# cd 0x01-git
+root@296f63c777eb:/alx-pre_course/0x01-git# touch bash/98
+root@296f63c777eb:/alx-pre_course/0x01-git# ls
+0x01-git  bash  c  js  README.md  school  up_to_date
+root@296f63c777eb:/alx-pre_course/0x01-git# cat > alx #!/bin/bash
+cd bash
+root@296f63c777eb:/alx-pre_course/0x01-git# touch bash/98
+root@296f63c777eb:/alx-pre_course/0x01-git# ls
+0x01-git  bash  c  js  README.md  school  up_to_date
+root@296f63c777eb:/alx-pre_course/0x01-git# cat > alx #!         
+root@296f63c777eb:/alx-pre_course/0x01-git# touch bash/98
+root@296f63c777eb:/alx-pre_course/0x01-git# ls
+0x01-git  bash  c  js  README.md  school  up_to_date
+root@296f63c777eb:/alx-pre_course/0x01-git# cat > alx #!/bin/bash
+cd bash
+root@296f63c777eb:/alx-pre_course/0x01-git# touch bash/98
+root@296f63c777eb:/alx-pre_course/0x01-git# ls
+0x01-git  bash  c  js  README.md  school  up_to_date
+root@296f63c777eb:/alx-pre_course/0x01-git# cat > alx #! alx
+alx school
+clear
+^[[A^[[B^[[B^[[B^[[B^[[B
+
+
+root@296f63c777eb:/alx-pre_course# touch bash/98
+root@296f63c777eb:/alx-pre_course# ls
+0x01-git  bash  c  js  README.md
+root@296f63c777eb:/alx-pre_course# school
+bash: school: command not found
+root@296f63c777eb:/alx-pre_course# git branch -a
+  main
+* update_script
+  remotes/origin/main
+  remotes/origin/master
+  remotes/origin/mster
+root@296f63c777eb:/alx-pre_course# git checkout update_script
+Already on 'update_script'
+root@296f63c777eb:/alx-pre_course# cd ..
+root@296f63c777eb:/# cd ..
+root@296f63c777eb:/# pwd
+/
+root@296f63c777eb:/# pwd
+/
+root@296f63c777eb:/# cd ..
+root@296f63c777eb:/# cd alx-pre_course
+root@296f63c777eb:/alx-pre_course# cd 0x01-git
+root@296f63c777eb:/alx-pre_course/0x01-git# touch bash/98
+root@296f63c777eb:/alx-pre_course/0x01-git# ls
+0x01-git  bash  c  js  README.md  school  up_to_date
+root@296f63c777eb:/alx-pre_course/0x01-git# cat > alx #!/bin/bash
+cd bash
+root@296f63c777eb:/alx-pre_course/0x01-git# touch bash/98
+root@296f63c777eb:/alx-pre_course/0x01-git# ls
+0x01-git  bash  c  js  README.md  school  up_to_date
+root@296f63c777eb:/alx-pre_course/0x01-git# cat > alx #!         
+root@296f63c777eb:/alx-pre_course/0x01-git# touch bash/98
+root@296f63c777eb:/alx-pre_course/0x01-git# ls
+0x01-git  bash  c  js  README.md  school  up_to_date
+root@296f63c777eb:/alx-pre_course/0x01-git# cat > alx #!/bin/bash
+cd bash
+root@296f63c777eb:/alx-pre_course/0x01-git# touch bash/98
+root@296f63c777eb:/alx-pre_course/0x01-git# ls
+0x01-git  bash  c  js  README.md  school  up_to_date
+root@296f63c777eb:/alx-pre_course/0x01-git# cat > alx #! alx
+
+
+
+
+
+
+
+cd ..
